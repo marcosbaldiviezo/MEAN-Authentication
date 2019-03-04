@@ -1,5 +1,7 @@
 # mean_auth_app
 Login and register with mean stack
+Try the app here: Domain
+The app can be found at https://mean-authentication-1.herokuapp.com/
 
 npm install and 
 npm install in front folder
